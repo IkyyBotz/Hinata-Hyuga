@@ -24,8 +24,8 @@
 
   // Other
   global.ownername = 'Erzz' // Ganti Jadi Namamu
-  global.owner = ['628214643396','628214643396','628214643396'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '628214643396' // Owner Utama Istilahnya
+  global.owner = ['62821464339681','62821464339681','62821464339681'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '62821464339681' // Owner Utama Istilahnya
   global.botname = 'ERZZ BOT' // Ganti Jadi Nama Botmu
   global.packname = 'ERZZ BOT' // Sticker Weem
   global.author = 'ERZZ BOT' // Sticker Weem
